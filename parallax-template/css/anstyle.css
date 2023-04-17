@@ -1,0 +1,50 @@
+.blogo{
+    width:7%;
+    margin-top: 6px;
+}
+
+/* .card_container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.bdr{
+    border-radius: 2rem;
+}
+.crdimg{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.crdimg2{
+    width: 80%;
+    margin: 10%;
+}
+
+.crd_tit{
+    text-shadow: 2px 2px 5px black;
+}
+
+.des{
+    margin-left: 5%;
+}
+
+.footercolor{
+    background-color: #3F4E4F;
+}
+
+.btn_color{
+    background-color: #3F4E4F;
+}
+
+.line_ht{
+    line-height: 0.5px;
+}
+
+.fotlogo{
+    background-color: aliceblue; 
+    border-radius: 50%;
+}
